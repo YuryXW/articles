@@ -1,2 +1,2 @@
 # articles
-Translation of published papers
+Translation of published "papers".
